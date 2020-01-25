@@ -1,0 +1,4 @@
+# https://github.com/PyCQA/pylint/blob/master/pylintrc
+
+[MASTER]
+disable = C0301, C0330

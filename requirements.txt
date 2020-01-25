@@ -1,0 +1,12 @@
+pytest
+coverage
+pytest-cov
+black
+twine
+invoke
+mypy
+asynctest
+pytest-asyncio
+pylint
+pyflakes
+-e .
